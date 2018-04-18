@@ -1,0 +1,9 @@
+html, body, .six {
+  height: 100%;
+}
+.six {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 200px;
+}
